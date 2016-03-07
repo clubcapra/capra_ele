@@ -1,2 +1,2 @@
-# capra_ele
+# Capra Electronic
 
