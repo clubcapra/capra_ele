@@ -15,4 +15,8 @@ def setup():
 
 def loop():
   temp = thermocouple.readTempC()
-  
+
+  if(temp == None):
+
+  else:
+      print()
